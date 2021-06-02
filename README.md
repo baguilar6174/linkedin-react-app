@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# [LinkedIn clone React App](https://bryanaguilar-easybank.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a clone of the linkedin platform with the React Js framework
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This project presents the construction of a linkedin clone built from scratch using React Js (this project contains the main functions such as login and registration with Google, access to the main page, create posts, etc.), the site is fully responsive and contains animations that improve the user experience. Your users should be able to:
 
-### `npm start`
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
-Runs the app in the development mode.\
+## Installation
+
+Step 1:
+
+Get code using
+
+```
+git clone 
+```
+
+Step 2:
+
+Install the necessary libraries (make sure you have node)
+
+```
+npm i 
+```
+
+Step 3:
+
+Runs the app in the development mode
+
+```
+npm start
+```
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Links
 
-### `npm test`
+- Live Demo URL: [LinkedIn Clone]()
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## My process
 
-### `npm run build`
+### Built with
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Semantic HTML5 markup
+- CSS custom properties (styled components)
+- Mobile-first workflow
+- React JS
+- Google Services
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What I learned
 
-### `npm run eject`
+* React Router
+* Add styled components
+* vscode-styled-components (vscode extension to styled components)
+* Create a responsive navbar with styled componets
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Author
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Website - [bryanaguilar](https://bryanaguilar.gatsbyjs.io/)
+- Medium - [bryanaguilar6174](https://bryanaguilar6174.medium.com/)
+- LinkeIn - [bryanaguilar6174](https://www.linkedin.com/in/bryanaguilar6174)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contributing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Learn More
+## Project status
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Currently the project contains the responsive login page (no functionality). The next step is to create the main page.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## LinkedIn Clone React App
 
-### Code Splitting
+![Login desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-desktop.PNG?raw=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+> Login desktop
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+<table>
+  <tr>
+    <td>Login mobile</td>
+  </tr>
+  <tr>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-mobile.PNG?raw=true" width="70%"></td>
+  </tr>
+ </table>
+<br>
