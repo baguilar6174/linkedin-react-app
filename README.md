@@ -1,4 +1,4 @@
-# [LinkedIn clone React App](https://bryanaguilar-easybank.netlify.app/)
+# [LinkedIn clone React App]()
 
 This project is a clone of the linkedin platform with the React Js framework
 
