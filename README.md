@@ -75,7 +75,7 @@ Currently the project contains the responsive login page (no functionality). The
 
 ## LinkedIn Clone React App
 
-![Login desktop](https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-desktop.PNG?raw=true)
+![Login desktop](https://github.com/bryanAguilar001/linkedin-react-app/blob/main/media/login-desktop.PNG?raw=true)
 
 > Login desktop
 
@@ -85,7 +85,7 @@ Currently the project contains the responsive login page (no functionality). The
     <td>Login mobile</td>
   </tr>
   <tr>
-    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/easybank-page-challenge/blob/main/media/navbar-mobile.PNG?raw=true" width="70%"></td>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/linkedin-react-app/blob/main/media/login-mobile.PNG?raw=true" width="70%"></td>
   </tr>
  </table>
 <br>
