@@ -15,7 +15,7 @@ const Login = (props) => {
                     {/* Join Button */}
                     <Join>Únete ahora</Join>
                     {/* Signin Button */}
-                    <SignIn>Iniciar sesión</SignIn>
+                    <SignIn>Iniciar Sesión</SignIn>
                 </div>
             </Nav>
             {/* Section text & image */}

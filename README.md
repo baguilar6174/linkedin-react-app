@@ -1,4 +1,4 @@
-# [LinkedIn clone React App]()
+# [LinkedIn clone React App](https://linkedin-clone-react-app.netlify.app/)
 
 This project is a clone of the linkedin platform with the React Js framework
 
@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Links
 
-- Live Demo URL: [LinkedIn Clone]()
+- Live Demo URL: [LinkedIn Clone](https://linkedin-clone-react-app.netlify.app/)
 
 ## My process
 
