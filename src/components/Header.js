@@ -25,42 +25,42 @@ const Header = (props) => {
                     <NavListWrap>
                         {/* Home item */}
                         <NavItem className="active" >
-                            <a>
+                            <a href="/home">
                                 <img src="/images/nav-home.svg" alt="" />
                                 <span>Home</span>
                             </a>
                         </NavItem>
                         {/* Network */}
                         <NavItem>
-                            <a>
+                            <a href="/home">
                                 <img src="/images/nav-network.svg" alt="" />
                                 <span>My Newtwork</span>
                             </a>
                         </NavItem>
                         {/* Jobs */}
                         <NavItem>
-                            <a>
+                            <a href="/home">
                                 <img src="/images/nav-jobs.svg" alt="" />
                                 <span>Jobs</span>
                             </a>
                         </NavItem>
                         {/* Messaging */}
                         <NavItem>
-                            <a>
+                            <a href="/home">
                                 <img src="/images/nav-messaging.svg" alt="" />
                                 <span>Messaging</span>
                             </a>
                         </NavItem>
                         {/* Notifications */}
                         <NavItem>
-                            <a>
+                            <a href="/home">
                                 <img src="/images/nav-notifications.svg" alt="" />
                                 <span>Notifications</span>
                             </a>
                         </NavItem>
                         {/* User dropdown */}
                         <User>
-                            <a>
+                            <a href="/home">
                                 <img src="/images/user.svg" alt="" />
                                 <span>
                                     Me
@@ -69,12 +69,12 @@ const Header = (props) => {
                             </a>
                             {/* Sign our */}
                             <SignOut>
-                                <a>Sign Out</a>
+                                <a href="/home">Sign Out</a>
                             </SignOut>
                         </User>
                         {/* Work dropdown */}
                         <Work>
-                            <a>
+                            <a href="/home">
                                 <img src="/images/nav-work.svg" alt="" />
                                 <span>
                                     Work
