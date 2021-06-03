@@ -13,11 +13,9 @@ function App() {
       <Router>
         <Switch>
           {/* Login page */}
-          <Route exact path = '/'>
-            <Login />
-          </Route>
+          <Route exact path = '/' component={Login}></Route>
           {/* Home page */}
-          <Route path= '/home'>
+          <Route path= '/home' component={Header}>
             <Header/>
             <Home/>
           </Route>
