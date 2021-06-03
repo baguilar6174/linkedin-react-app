@@ -47,10 +47,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 - Semantic HTML5 markup
 - CSS custom properties (styled components)
-- Mobile-first workflow
 - React JS
-- Google Services
-
 
 ## What I learned
 
@@ -58,6 +55,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * Add styled components
 * vscode-styled-components (vscode extension to styled components)
 * Create a responsive navbar with styled componets
+* Add header header elements
+* Add and style navBar
+* Add UpWork ad on the top
 
 ## Author
 
@@ -71,7 +71,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Project status
 
-Currently the project contains the responsive login page (no functionality). The next step is to create the main page.
+Currently the project contains the login page and the header of the home page. Now we will work on the structure of the home page.
 
 ## LinkedIn Clone React App
 
@@ -83,9 +83,15 @@ Currently the project contains the responsive login page (no functionality). The
 <table>
   <tr>
     <td>Login mobile</td>
+    <td>Header mobile</td>
   </tr>
   <tr>
     <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/linkedin-react-app/blob/main/media/login-mobile.PNG?raw=true" width="70%"></td>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/linkedin-react-app/blob/main/media/header-mobile.PNG?raw=true" width="70%"></td>
   </tr>
  </table>
 <br>
+
+![Header desktop](https://github.com/bryanAguilar001/linkedin-react-app/blob/main/media/header-desktop.PNG?raw=true)
+
+> Header desktop

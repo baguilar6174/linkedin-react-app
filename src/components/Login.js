@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import React from 'react'
+import React from 'react';
 
 // Functional component generated with rafcp shortcut
 const Login = (props) => {
@@ -13,23 +13,23 @@ const Login = (props) => {
                 </a>
                 <div>
                     {/* Join Button */}
-                    <Join>Únete ahora</Join>
+                    <Join>Join now</Join>
                     {/* Signin Button */}
-                    <SignIn>Iniciar Sesión</SignIn>
+                    <SignIn>Sign in</SignIn>
                 </div>
             </Nav>
             {/* Section text & image */}
             <Section>
                 {/* Hero section */}
                 <Hero>
-                    <h1>Bienvenido a tu comunidad profesional</h1>
+                    <h1>Welcome to your professional community</h1>
                     <img src="/images/login-hero.svg" alt=""/>
                 </Hero>
                 {/* Google Signin */}
                 <Form>
                     <Google>
                         <img src="/images/google.svg" alt=""/>
-                        Iniciar sesión con Google
+                        Sign in with Google
                     </Google>
                 </Form>
             </Section>
