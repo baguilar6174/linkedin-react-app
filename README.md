@@ -16,7 +16,7 @@ Step 1:
 Get code using
 
 ```
-git clone
+git clone https://github.com/bryanAguilar001/linkedin-react-app.git
 ```
 
 Step 2:
