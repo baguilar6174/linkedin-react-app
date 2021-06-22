@@ -86,7 +86,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Project status
 
-Currently the project contains the login page and the header of the home page. Now we will work on the structure of the home page.
+Currently, the project contains the login page and the main page of the site. The design is responsive although details are still needed on mobile devices. It is expected to integrate a login with Google and create posts using Firebase.
 
 ## LinkedIn Clone React App
 
