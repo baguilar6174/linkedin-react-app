@@ -16,7 +16,7 @@ Step 1:
 Get code using
 
 ```
-git clone 
+git clone
 ```
 
 Step 2:
@@ -24,10 +24,24 @@ Step 2:
 Install the necessary libraries (make sure you have node)
 
 ```
-npm i 
+npm i
 ```
 
 Step 3:
+
+If you use a platform like Netlify to host your project:
+
+In /public folder added a new \_redirects file with this content:
+
+```
+/* /index.html 200
+```
+
+I added the following after the “build” script within package.json – "react-scripts build && echo '/\* /index.html 200' | cat >build/\_redirects ". This insured that future builds did not receive a .txt format \_redirects file.
+
+This configuration is necessary for the correct operation of the router.
+
+Step 4:
 
 Runs the app in the development mode
 
@@ -48,16 +62,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - Semantic HTML5 markup
 - CSS custom properties (styled components)
 - React JS
+- Redux
+- Firebase Services
 
 ## What I learned
 
-* React Router
-* Add styled components
-* vscode-styled-components (vscode extension to styled components)
-* Create a responsive navbar with styled componets
-* Add header header elements
-* Add and style navBar
-* Add UpWork ad on the top
+- React Router
+- Add styled components
+- vscode-styled-components (vscode extension to styled components)
+- Create a responsive navbar with styled componets
+- Use redux
+- Firebase Login
 
 ## Author
 
@@ -95,3 +110,7 @@ Currently the project contains the login page and the header of the home page. N
 ![Header desktop](https://github.com/bryanAguilar001/linkedin-react-app/blob/main/media/header-desktop.PNG?raw=true)
 
 > Header desktop
+
+![Home desktop](https://github.com/bryanAguilar001/linkedin-react-app/blob/main/media/home-desktop.PNG?raw=true)
+
+> Home desktop
